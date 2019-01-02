@@ -6,8 +6,6 @@ To use locally, clone or download this repository to your local machine and bran
 
 Instructions for cloning: [Cloning Help](https://help.github.com/articles/cloning-a-repository/)
 
-# Quick Start
-
 Usage: 
 ```
 gcc -o [FILENAME] cartjaco.buildrooms.c
